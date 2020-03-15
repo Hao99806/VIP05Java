@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="fastjson-1.2.62.jar" sourcepath="C:/Users/Administrator/.m2/repository/com/alibaba/fastjson/1.2.62/fastjson-1.2.62-sources.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.39.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
